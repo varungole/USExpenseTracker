@@ -1,0 +1,12 @@
+.welcome-title{
+    text-align: center;
+}
+
+.track-title {
+    text-align: center;
+}
+
+.option {
+    display: flex;
+    cursor: pointer;
+}
